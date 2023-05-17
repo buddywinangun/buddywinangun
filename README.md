@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi <img src='https://github.com/buddywinangun/buddywinangun/blob/master/assets/Hi.gif' width='29' height='29' />, I'm Buddy Winangun
+📝 I regulary write articles on [Tokoder](https://www.tokoder.com/)<br />
 <!--
 **buddywinangun/buddywinangun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
